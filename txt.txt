@@ -1,0 +1,3 @@
+editor.linkedEditing
+
+pesquisa da configuracao para correcao html
