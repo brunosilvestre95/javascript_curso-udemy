@@ -1,0 +1,1 @@
+console.log(1995 * "Bruno Silvestre" + 30);
