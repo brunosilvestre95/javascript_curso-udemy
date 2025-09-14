@@ -8,9 +8,10 @@
             exemplo:
                 let nome = 'Toicin'
                     if(nome == 'Pedro'){
-                    console.log('Seu nome é Toicin.');
+                    console.log(
+                    'O seu nome não é Pedro, seu nome é Toicin.');
                     } else { 
-                        console.log('O seu nome não é Pedro, seu nome é Toicin.);
+                        console.log('Seu nome é Toicin.';
                         }
 */
 
