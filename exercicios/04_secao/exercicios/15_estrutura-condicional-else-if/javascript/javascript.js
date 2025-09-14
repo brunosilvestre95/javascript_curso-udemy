@@ -33,5 +33,16 @@
         } else {
 
             console.log("Não é Matheus!");
-            
+
         }
+
+        // outra condicao
+    
+        let a = 1
+        let b = 2
+
+            if ( a > b) {
+                console.log("Teste");
+            } else if (1 == 1) {
+                console.log("Testando");
+            }
