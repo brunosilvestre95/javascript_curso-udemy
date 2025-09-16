@@ -21,3 +21,4 @@ let velocidade = 100;
     } else {
         console.log("Foi Multado!")
     }
+
