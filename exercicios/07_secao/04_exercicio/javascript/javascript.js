@@ -8,8 +8,11 @@
 */
 
     function numeroAleatorio01(num){
+
         return Math.floor(Math.random() * num) + 1;
+
     }
+    
     console.log(numeroAleatorio01(10));
     console.log(numeroAleatorio01(100));
     console.log(numeroAleatorio01(50));

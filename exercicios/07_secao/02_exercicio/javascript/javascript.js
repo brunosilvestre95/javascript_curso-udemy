@@ -6,7 +6,9 @@ exercicio 02
 */
 
 function imprimirMsg(idade){
+
     console.log(`Você tem ${idade} Anos de Idade`);
+    
 }
 
 imprimirMsg(30);
