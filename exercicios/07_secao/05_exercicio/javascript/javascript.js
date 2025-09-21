@@ -24,3 +24,9 @@
     }
     
     idadeParaCNH(18);
+    idadeParaCNH(17);
+    idadeParaCNH(34);
+    idadeParaCNH(16);
+    idadeParaCNH(21);
+    idadeParaCNH(6);
+    idadeParaCNH(19);
