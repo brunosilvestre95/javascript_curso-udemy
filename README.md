@@ -12,6 +12,6 @@ Este projeto é apenas para fins educacionais.
 
 ## 👨‍💻 Sobre Mim
 
-Estudante de desenvolvimento web focado em FrontEnd
+Estudante de Desenvolvimento Web
 
 LinkedIn: https://www.linkedin.com/in/bruno-silvestre-5320622a4/
